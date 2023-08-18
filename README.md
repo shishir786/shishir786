@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development and partially Data Analysis**
 
-- 💬 Ask me about **C++,Java**
+- 💬 Ask me about **C++, Java**
 
 - 🎓 Study in  **American International University Bangladesh - AIUB**
 
