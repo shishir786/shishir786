@@ -43,79 +43,68 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/>
   </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.w3schools.com/cs/" target="_blank" title="C#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48"/>
   </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.java.com" target="_blank" title="Java">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/>
   </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.python.org" target="_blank" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
   </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.php.net" target="_blank" title="PHP">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/>
   </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/>
   </a>
-
-<br/>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <br/>
+  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.oracle.com/" target="_blank" title="Oracle Database">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="48" height="48"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin: 5px;">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="48" height="48"/>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="Microsoft SQL Server">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="48" height="48"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/>
   </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://mariadb.org/" target="_blank" title="MariaDB">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="48" height="48"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/>
   </a>
-
-<br/>
-  
-  
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <br/>
+  <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="48" height="48"/>
   </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/>
   </a>
-
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.mathworks.com/" target="_blank" title="MATLAB">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="48" height="48"/>
   </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
   </a>
-
-
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="48" height="48"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/>
   </a>
-
-<br/>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/>
-</a>
-
+  <br/>
+  <a href="https://www.tensorflow.org" target="_blank" title="TensorFlow">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/>
+  </a>
 </div>
+
 
 <br/>
 
