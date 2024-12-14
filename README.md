@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="96" height="96"/>
   </a>
 
-  <br/>
+
     
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="Microsoft SQL Server">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="96" height="96"/>
