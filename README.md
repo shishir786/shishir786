@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am not Funny 😉**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬Connect with Me</h3>
 <p align="left">
   <a href="https://twitter.com/a_shishir786" target="blank" style="margin: 5px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_shishir786" height="48" width="48" />
@@ -40,7 +40,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+## 🌍 **Languages & Tools I Work With**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
@@ -110,14 +110,28 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir786&show_icons=true&locale=en&layout=compact" alt="shishir786" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishir786&show_icons=true&locale=en" alt="shishir786" /></p>
+## 📊 **Most Used Languages & GitHub Stats**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shishir786&" alt="shishir786" /></p>
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&layout=compact&hide_border=true&langs_count=10" alt="Most Used Languages" style="margin-right: 100px;"/> <!-- Increased gap here -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shishir786&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats" style="margin-left: 100px;"/>
+</div>
 
 
-## 📊 Most Used Languages
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" />
+## 🔥 **GitHub Streak Stats**
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shishir786&hide_border=true)
+
+
+
+
+
+
+
+
+
+
+
 
