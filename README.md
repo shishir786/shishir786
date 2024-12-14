@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **I am not Funny 😉**
 
+
 <h3 align="left">💬Connect with Me</h3>
 <p align="left">
   <a href="https://twitter.com/a_shishir786" target="blank" style="margin: 5px;">
@@ -38,7 +39,7 @@
   </a>
 </p>
 
-
+  <br/>
 
 ## 🌍 **Languages & Tools I Work With**
 
