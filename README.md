@@ -115,3 +115,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishir786&show_icons=true&locale=en" alt="shishir786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shishir786&" alt="shishir786" /></p>
+
+
+## 📊 Most Used Languages
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" />
+
