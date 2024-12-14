@@ -67,15 +67,15 @@
   <a href="https://www.oracle.com/" target="_blank" title="Oracle Database">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="96" height="96"/>
   </a>
+
+  <br/>
+    
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="Microsoft SQL Server">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="96" height="96"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="96" height="96"/>
   </a>
-  
-  <br/>
-  
   <a href="https://mariadb.org/" target="_blank" title="MariaDB">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="96" height="96"/>
   </a>
@@ -97,6 +97,9 @@
   <a href="https://pytorch.org/" target="_blank" title="PyTorch">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="96" height="96"/>
   </a>
+  
+  <br/>
+  
   <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="96" height="96"/>
   </a>
