@@ -112,13 +112,14 @@
 ## 📊 **Most Used Languages & GitHub Stats**
 
 <div style="display: flex; align-items: center; gap: 100px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&layout=compact&hide_border=true&langs_count=10" alt="Most Used Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shishir786&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&layout=compact&langs_count=12&exclude_repo=Train-journy-view-using-open_gl-" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shishir786" alt="GitHub Stats"/>
 </div>
 
 
+## ⚡ **Recent GitHub Activity**
 
-
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=shishir786&custom_title=shishir786's%20Contribution%20Graph&theme=github-light" alt="Most Used Languages"/>
 
 
 
@@ -126,11 +127,20 @@
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shishir786&hide_border=true)
 
+<!-- Profile Trophy -->
+### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shishir786&column=8&no-frame=true&no-bg=true"/>
+</a>
 
-
-
-
-
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+  
+</div>
+<!-- retro visitor counter -->  
+<p align="center" >   
+ <img src="https://profile-counter.glitch.me/shishir786/count.svg" />  
+</p>
 
 
 
