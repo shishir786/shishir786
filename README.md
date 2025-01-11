@@ -105,12 +105,14 @@
 </div>
 
 
-## 📊 **Most Used Languages & GitHub Stats**
+## 🔧 **Most Used Languages**
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&layout=compact&langs_count=12&exclude_repo=Train-journy-view-using-open_gl-" alt="Most Used Languages"/>
 
-<div style="display: flex; align-items: center; gap: 100px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&layout=compact&langs_count=12&exclude_repo=Train-journy-view-using-open_gl-" alt="Most Used Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shishir786" alt="GitHub Stats"/>
-</div>
+
+## 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shishir786&show_icons=true&hide_title=true)
+
 
 
 ## ⚡ **Recent GitHub Activity**
