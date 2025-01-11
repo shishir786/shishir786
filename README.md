@@ -41,9 +41,10 @@
 
   <br/>
 
-## 🌍 **Languages & Tools I Work With**
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+## 🌍 **Languages I Work With**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="64" height="64"/>
   </a>
@@ -65,19 +66,14 @@
   <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="64"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" title="Oracle Database">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="64" height="64"/>
+  <a href="https://www.javascript.com" target="_blank" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/>
   </a>
+</div>
 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="Microsoft SQL Server">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="64" height="64"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank" title="MariaDB">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="64" height="64"/>
-  </a>
+## 🛠️ **Tools I Work With**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/>
   </a>
@@ -90,6 +86,28 @@
   <a href="https://www.mathworks.com/" target="_blank" title="MATLAB">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="64" height="64"/>
   </a>
+</div>
+
+## 💾 **Databases I Work With**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <a href="https://www.oracle.com/" target="_blank" title="Oracle Database">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="64" height="64"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="Microsoft SQL Server">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="64" height="64"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64"/>
+  </a>
+  <a href="https://mariadb.org/" target="_blank" title="MariaDB">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="64" height="64"/>
+  </a>
+</div>
+
+## 🤖 **Data Science & ML Libraries**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="64" height="64"/>
   </a>
@@ -106,14 +124,18 @@
 
 
 ## 🔧 **Most Used Languages**
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&layout=compact&langs_count=12&exclude_repo=Train-journy-view-using-open_gl-" alt="Most Used Languages"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&exclude_repo=Train-journy-view-using-open_gl-&layout=compact)
+
 
 
 ## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shishir786&show_icons=true&hide_title=true)
 
+## 🌱 **GitHub Contributions**
 
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=shishir786)
 
 ## ⚡ **Recent GitHub Activity**
 
@@ -121,9 +143,8 @@
 
 
 
-## 🔥 **GitHub Streak Stats**
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shishir786&hide_border=true)
+
 
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
