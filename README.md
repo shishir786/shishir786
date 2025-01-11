@@ -125,7 +125,7 @@
 
 ## 🔧 **Most Used Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&exclude_repo=Train-journy-view-using-open_gl-&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&exclude_repo=Train-journy-view-using-open_gl-)
 
 
 
