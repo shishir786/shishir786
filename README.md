@@ -133,9 +133,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shishir786&show_icons=true&hide_title=true)
 
-## 🌱 **GitHub Contributions**
+## 🌱 **GitHub Streak**
 
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=shishir786)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shishir786)
 
 ## ⚡ **Recent GitHub Activity**
 
