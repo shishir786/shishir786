@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **C++,C#, Java**
 
-- 🎓 Study in  **American International University Bangladesh - AIUB**
+- 🎓 Studied in  **American International University Bangladesh - AIUB**
+- 👨‍💻 Jr. Full Stack Developer at **Sparktech Agency**
 
 - 📫 How to reach me **abdullahshishir786@gmail.com**
 
