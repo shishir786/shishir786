@@ -1,169 +1,181 @@
+<div align="center">
 
-![1690058005459](https://github.com/user-attachments/assets/73385382-2541-47cd-b224-45ebd97e0db9)
+```
+    _    ___   ___   _  _  _     _          _    _  _    ___  _  _  ___ ___  _  _  ___  ___
+   /_\  | _ ) |   \ | || || |   | |        /_\  | || |  / __|| || ||_ // __|| || ||_ /| _ \
+  / _ \ | _ \ | |) || __ || |__ | |__     / _ \ | __ |  \__ \| __ | |/ \__ \| __ | |/ |   /
+ /_/ \_\|___/ |___/ |_||_||____||____|   /_/ \_\|_||_|  |___/|_||_||_| |___/|_||_||_| |_|_\
 
+                      > Jr. Full Stack Developer  |  Sparktech Agency
+          > AIUB · CSE · Dhaka, Bangladesh 🇧🇩
+     > abdullahshishir786@gmail.com
+```
 
-<h1 align="center"> 󠀠ㅤ <br/>Hi 👋, I'm Abdullah Shishir</h1>
-<h3 align="center">Student of Computer Science and Engineering</h3>
-
-
-
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-
-- 🌱 I’m currently learning **Web Development and partially Data Analysis**
-
-- 💬 Ask me about **C++,C#, Java**
-
-- 🎓 Studied in  **American International University Bangladesh - AIUB**
-- 👨‍💻 Jr. Full Stack Developer at **Sparktech Agency**
-
-- 📫 How to reach me **abdullahshishir786@gmail.com**
-
-- ⚡ Fun fact **I am not Funny 😉**
-
-
-<h3 align="left">💬Connect with Me</h3>
-<p align="left">
-  <a href="https://twitter.com/a_shishir786" target="blank" style="margin: 5px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_shishir786" height="48" width="48" />
-  </a>
-  <a href="https://linkedin.com/in/abdullah-shishir" target="blank" style="margin: 5px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-shishir" height="48" width="48" />
-  </a>
-  <a href="https://fb.com/abdullah.shishir786" target="blank" style="margin: 5px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.shishir786" height="48" width="48" />
-  </a>
-  <a href="https://instagram.com/abdullah__shishir" target="blank" style="margin: 5px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah__shishir" height="48" width="48" />
-  </a>
-  <a href="https://discord.gg/S4Kpt42DvY" target="blank" style="margin: 5px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="S4Kpt42DvY" height="48" width="48" />
-  </a>
-</p>
-
-  <br/>
-
-
-## </> **Languages I Work With**
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="64" height="64"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" title="C#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="64" height="64"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" title="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="64" height="64"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" title="PHP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="64" height="64"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="64" height="64"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="64"/>
-  </a>
-  <a href="https://www.javascript.com" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/>
-  </a>
 </div>
 
-## 🛠️ **Tools I Work With**
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="64" height="64"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="64" height="64"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" title="MATLAB">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="64" height="64"/>
-  </a>
+```typescript
+const developer = {
+  name: "Abdullah Shishir",
+  role: "Jr. Full Stack Developer",
+  company: "Sparktech Agency",
+  university: "American International University Bangladesh (AIUB)",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  email: "abdullahshishir786@gmail.com",
+  learning: ["Web Development", "Data Analysis"],
+  funFact: "I am not funny 😉",
+};
+```
+
+---
+
+## ⚡ Current Stack
+
+<div align="center">
+
+| Layer         | Technologies                                             |
+| ------------- | -------------------------------------------------------- |
+| **Language**  | TypeScript · JavaScript · Python · PHP · Java · C++ · C# |
+| **Frontend**  | Next.js · HTML5 · CSS3                                   |
+| **Backend**   | Express.js · Nest.js · Node.js                           |
+| **Database**  | Postgres SQL · MySQL · MSSQL · Oracle · MariaDB          |
+| **ML / Data** | PyTorch · TensorFlow · Pandas · Seaborn                  |
+| **Tools**     | Git · Linux · Arduino · MATLAB                           |
+
 </div>
 
-## 💾 **Databases I Work With**
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="https://www.oracle.com/" target="_blank" title="Oracle Database">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="64" height="64"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="Microsoft SQL Server">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="64" height="64"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank" title="MariaDB">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="64" height="64"/>
-  </a>
+## 🛠️ Tech Badges
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
-## 🤖 **Data Science & ML Libraries**
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="64" height="64"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="64" height="64"/>
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="64" height="64"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" title="TensorFlow">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="64" height="64"/>
-  </a>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shishir786&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shishir786&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8&exclude_repo=Train-journy-view-using-open_gl-" />
+
 </div>
 
+<div align="center">
 
-## 🔧 **Most Used Languages**
+![GitHub Streak](https://streak-stats.demolab.com?user=shishir786&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&dates=7d8590&sideLabels=00ff88&stroke=00ff8820&currStreakNum=c9d1d9&sideNums=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&exclude_repo=Train-journy-view-using-open_gl-)
-
-
-
-## 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shishir786&show_icons=true&hide_title=true)
-
-## 🌱 **GitHub Streak**
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shishir786)
-
-## ⚡ **Recent GitHub Activity**
-
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shishir786&custom_title=shishir786's%20Contribution%20Graph&theme=github-light" alt="Most Used Languages"/>
-
-
-
-
-
-
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shishir786&column=8&no-frame=true&no-bg=true"/>
-</a>
-
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-  
 </div>
-<!-- retro visitor counter -->  
-<p align="center" >   
- <img src="https://profile-counter.glitch.me/shishir786/count.svg" />  
-</p>
 
+---
 
+## 📈 Contribution Graph
 
+<div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shishir786&theme=github-compact&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=Abdullah%20Shishir's%20Contribution%20Graph)](https://github.com/shishir786)
 
+</div>
 
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shishir786&theme=flat&no-frame=true&no-bg=true&column=6)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!--
+  ═══ ONE-TIME SETUP (takes 2 minutes) ═══════════════════════════
+
+  1. Inside your shishir786 profile repo, create:
+     .github/workflows/snake.yml
+
+  2. Paste this into snake.yml:
+
+     name: Generate Snake
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch:
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk/svg-only@v3
+             with:
+               github_user_name: shishir786
+               outputs: |
+                 dist/github-snake.svg
+                 dist/github-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v3
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Settings → Actions → General → "Read and write permissions"
+  4. Actions tab → "Generate Snake" → Run workflow
+  5. Replace the placeholder below with:
+     ![snake](https://raw.githubusercontent.com/shishir786/shishir786/output/github-snake-dark.svg)
+  ════════════════════════════════════════════════════════════════
+-->
+
+<div align="center">
+
+_🐍 Snake coming soon — see setup instructions in the README source_
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a_shishir786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-shishir)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/abdullah.shishir786)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullah__shishir)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S4Kpt42DvY)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahshishir786@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/shishir786/count.svg)
+
+_`> console.log("thanks for visiting_")` &nbsp;▌\_
+
+</div>
