@@ -78,7 +78,7 @@ const developer = {
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shishir786&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shishir786&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8&exclude_repo=Train-journy-view-using-open_gl-" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir786&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8&exclude_repo=Train-journy-view-using-open-gl&cache_seconds=1" />
 
 </div>
 
