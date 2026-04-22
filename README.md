@@ -30,43 +30,49 @@ const developer = {
 
 ---
 
-## ⚡ Current Stack
-
-<div align="center">
-
-| Layer         | Technologies                                             |
-| ------------- | -------------------------------------------------------- |
-| **Language**  | TypeScript · JavaScript · Python · PHP · Java · C++ · C# |
-| **Frontend**  | Next.js · HTML5 · CSS3                                   |
-| **Backend**   | Express.js · Nest.js · Node.js                           |
-| **Database**  | Postgres SQL · MySQL · MSSQL · Oracle · MariaDB          |
-| **ML / Data** | PyTorch · TensorFlow · Pandas · Seaborn                  |
-| **Tools**     | Git · Linux · Arduino · MATLAB                           |
-
-</div>
-
----
 
 ## 🛠️ Tech Badges
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-20232a?style=flat-square&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-20232a?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-20232a?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-20232a?style=flat-square&logo=dotnet&logoColor=239120)
+
+**Frontend & Backend**
+
+![Next.js](https://img.shields.io/badge/Next.js-20232a?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![NestJS](https://img.shields.io/badge/NestJS-20232a?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Express.js](https://img.shields.io/badge/Express.js-20232a?style=flat-square&logo=express&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-20232a?style=flat-square&logo=node.js&logoColor=43853D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-20232a?style=flat-square&logo=springboot&logoColor=6DB33F)
+![HTML5](https://img.shields.io/badge/HTML5-20232a?style=flat-square&logo=html5&logoColor=E34F26)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232a?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-20232a?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232a?style=flat-square&logo=mongodb&logoColor=47A248)
+![Oracle](https://img.shields.io/badge/Oracle-20232a?style=flat-square&logo=oracle&logoColor=F80000)
+![MariaDB](https://img.shields.io/badge/MariaDB-20232a?style=flat-square&logo=mariadb&logoColor=003545)
+
+**ML / Data & Tools**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-20232a?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-20232a?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Pandas](https://img.shields.io/badge/Pandas-20232a?style=flat-square&logo=pandas&logoColor=150458)
+![Git](https://img.shields.io/badge/Git-20232a?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-20232a?style=flat-square&logo=linux&logoColor=FCC624)
+![Arduino](https://img.shields.io/badge/Arduino-20232a?style=flat-square&logo=arduino&logoColor=00979D)
+![MATLAB](https://img.shields.io/badge/MATLAB-20232a?style=flat-square&logo=mathworks&logoColor=0076A8)
 
 </div>
 
@@ -159,23 +165,16 @@ _🐍 Snake coming soon — see setup instructions in the README source_
 
 ## 🌐 Connect
 
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a_shishir786)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-shishir)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/abdullah.shishir786)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullah__shishir)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/S4Kpt42DvY)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahshishir786@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/shishir786/count.svg)
-
-_`> console.log("thanks for visiting_")` &nbsp;▌\_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0d1117)](https://linkedin.com/in/abdullah-shishir)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0d1117)](https://twitter.com/a_shishir786)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0d1117)](https://fb.com/abdullah.shishir786)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117)](https://instagram.com/abdullah__shishir)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0d1117)](https://discord.gg/S4Kpt42DvY)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0d1117)](mailto:abdullahshishir786@gmail.com)
 
 </div>
+
+
