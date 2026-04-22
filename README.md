@@ -157,7 +157,7 @@ const developer = {
 
 <div align="center">
 
-_🐍 Snake coming soon — see setup instructions in the README source_
+![snake](https://raw.githubusercontent.com/shishir786/shishir786/output/github-snake-dark.svg)
 
 </div>
 
