@@ -6,7 +6,7 @@
   / _ \ | _ \ | |) || __ || |__ | |__  / _ \ | __ |   \__ \| __ | |/ \__ \| __ | |/ |   /
  /_/ \_\|___/ |___/ |_||_||____||____|/_/ \_\|_||_|   |___/|_||_||_| |___/|_||_||_| |_|_\
 
-                      > Jr. Full Stack Developer  |  Sparktech Agency
+                      > Jr. Full Stack Engineer  |  Startup
           > AIUB · CSE · Dhaka, Bangladesh 🇧🇩
      > abdullahshishir786@gmail.com
 ```
@@ -18,8 +18,8 @@
 ```typescript
 const developer = {
   name: "Abdullah Shishir",
-  role: "Jr. Full Stack Developer",
-  company: "Sparktech Agency",
+  role: "Jr. Full Stack Engineer",
+  company: "Startup",
   university: "American International University Bangladesh (AIUB)",
   location: "Dhaka, Bangladesh 🇧🇩",
   email: "abdullahshishir786@gmail.com",
